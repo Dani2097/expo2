@@ -1,0 +1,17 @@
+{
+  "name": "mia-app",
+  "displayName": "mia-app",
+  "expo": {
+    "name": "mia-app",
+    "slug": "mia-app",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
